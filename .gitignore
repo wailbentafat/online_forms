@@ -1,0 +1,74 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+*.egg
+*.egg-info
+dist/
+build/
+*.egg-info/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# Environment files
+.env
+*.env
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pytest
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+
+# pylint
+pylint-report.txt
+pylint-global.txt
+
+# coverage.py
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Sphinx documentation
+docs/_build/
+
+# VS Code settings
+.vscode/
+
+# Other
+*.swp
+*.swo
+*.swn
